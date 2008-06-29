@@ -1,0 +1,10 @@
+Controller('overlay',{
+	"img click": function(params){
+	    var x = params.event.pageX;
+	    var y = params.event.pageY;
+	    
+	}
+
+
+
+});
